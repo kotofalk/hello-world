@@ -1,0 +1,1159 @@
+#EXTM3U
+
+
+#EXTINF:-1,Смотрим Кино и сериалы HD
+#EXTGRP:🎦Фильмы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 ,FAN HD
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 ,FILM TV
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/157269.m3u8
+#EXTINF:-1 ,FILM TV HD 2 
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 ,FILM TV 3
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/202997.m3u8
+#EXTINF:-1 ,FILM TV 4
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 ,FILM TV 5
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 ,FILM TV 6
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/204717.m3u8
+#EXTINF:-1 ,FILM TV 7
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/204708.m3u8
+
+#EXTINF:-1,Детское Кино International
+#EXTGRP:🎦Фильмы
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1,Кино 1 International
+#EXTGRP:🎦Фильмы
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,Музыка 1 International
+#EXTGRP:🎧Музыкальные
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1,Музыка 2 International
+#EXTGRP:🎧Музыкальные
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1,Музыка Кино International
+#EXTGRP:🎦Фильмы
+http://kino-1.catcast.tv/content/37739/index.m3u8
+
+
+
+#EXTINF:-1,VHS TV
+#EXTGRP:🎦Фильмы
+http://v2.catcast.tv/content/44051/index.m3u8
+
+
+#EXTINF:-1,VIVA HD
+#EXTGRP:🎧Музыкальные
+http://hlss.goodgame.ru/hls/180805.m3u8
+
+
+#EXTINF:-1 ,TDM TV HD
+#EXTGRP:🎧Музыкальные
+http://hlss.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 ,TDM TV FMC HD
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 ,TDM TV - Series TV
+#EXTGRP:🎦Фильмы
+http://hlss.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 ,TDM TV - WWW
+#EXTGRP:🎭Развлекательные
+http://hlss.goodgame.ru/hls/192005.m3u8
+#EXTINF:-1 ,TDM TV - Мультики
+#EXTGRP:🎠Детские
+http://hlss.goodgame.ru/hls/198446.m3u8
+#EXTINF:-1 ,TMF RUS
+#EXTGRP:🎧Музыкальные
+http://hlss.goodgame.ru/hls/201891.m3u8
+
+
+
+
+
+#EXTINF:-1,Now 70's
+#EXTGRP:🎧Музыкальные
+http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80's
+#EXTGRP:🎧Музыкальные
+http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 90's
+#EXTGRP:🎧Музыкальные
+http://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Кошмар HD
+#EXTGRP:🎦Фильмы
+http://195.9.195.3:8080/hls/204709.m3u8
+
+#EXTINF:-1,FMC FHD
+#EXTGRP:🎦Фильмы
+http://195.9.195.3:8080/hls/187741.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Эхо TV
+#EXTGRP:🔅Региональные
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:-1,Retro TV
+#EXTGRP:🎧Музыкальные
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,360°
+#EXTGRP:🌐Новостные
+http://balancer.facecast.io:80/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
+#EXTINF:-1,360°
+#EXTGRP:🌐Новостные
+http://balancer.facecast.io:80/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+
+
+#EXTINF:-1,Red Bull TV HD
+#EXTGRP:⚽️Спортивные
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+
+
+#EXTINF:-1 ,Sochi Live HD
+#EXTGRP:🔅Региональные
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+
+#EXTINF:-1 ,Univer TV HD
+#EXTGRP:🔅Региональные
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+
+#EXTINF:-1 ,Мир HD
+#EXTGRP:🇷🇺 Федеральные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,Мир 24 HD
+#EXTGRP:🌐Новостные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Известия ТВ HD
+#EXTGRP:🌐Новостные
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 ,Kronehit TV HD
+#EXTGRP:🔅Региональные
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 ,Тивиком HD 
+#EXTGRP:🔅Региональные
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:-1 ,Три Ангела HD
+#EXTGRP:🔅Региональные
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+
+#EXTINF:-1 ,Арис 24 HD
+#EXTGRP:🔅Региональные
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+
+#EXTINF:-1,Mədəniyyət TV
+#EXTGRP:🇦🇿 Azərbaycan 
+http://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
+
+#EXTINF:-1,ARB 
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=100390&extension=ts&play_token=uo8QgqWW28
+#EXTINF:-1,ATV HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31402&extension=ts&play_token=hP9BQzGfv9
+#EXTINF:-1,ATV AZ HD
+#EXTGRP:🇦🇿 Azərbaycan
+http://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?
+
+#EXTINF:-1,Az TV HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31401&extension=ts&play_token=HD4qbjuPyz
+#EXTINF:-1,CBC
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31399&extension=ts&play_token=CEZdhxr1vt
+#EXTINF:-1,Ictimai HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31398&extension=ts&play_token=CAZWBpNRMm
+#EXTINF:-1,Idman HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31397&extension=ts&play_token=VtNiRbT5nx
+#EXTINF:-1,Space HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31394&extension=ts&play_token=cQB4WuQ0JR
+#EXTINF:-1,Xazar HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31393&extension=ts&play_token=rcTd6bmHPA
+#EXTINF:9, ARB 24 HD
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=100391&extension=ts&play_token=7c42ijPYFW
+#EXTINF:0,ARB 24 
+#EXTGRP:🇦🇿 Azərbaycan 
+http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
+#EXTINF:-1,Real
+#EXTGRP:🇦🇿 Azərbaycan
+http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
+
+
+#EXTINF:-1,Dunya TV
+#EXTGRP:🇦🇿 Azərbaycan 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=100394&extension=ts&play_token=mgqaT74erc
+
+#EXTINF:-1,Az TV FHD
+#EXTGRP:🇦🇿 Azərbaycan
+http://str.yodacdn.net/aztv/index.m3u8
+
+
+#EXTINF:-1,Ictimai TV 
+#EXTGRP:🇦🇿 Azərbaycan
+https://node19.connect.az:9081/tv/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CBC Sport AZ HD
+#EXTGRP:🇦🇿 Azərbaycan
+http://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+
+#EXTINF:-1,APA TV HD
+#EXTGRP:🇦🇿 Azərbaycan
+http://rtmp.apa.tv/@pagroup!23.m3u8
+
+
+#EXTINF:-1,BAKU HD
+#EXTGRP:🇦🇿 Azərbaijan
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+
+
+#EXTINF:-1,Sehiyye TV
+#EXTGRP:🇦🇿 Azərbaycan
+http://185.32.44.154/sehiyye/index.m3u8
+
+
+#EXTINF:-1,Könül TV HD
+#EXTGRP:🇦🇿 Azərbaycan
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+
+#EXTINF:-1,El TV
+#EXTGRP:🇦🇿 Azərbaycan
+http://85.132.53.162:1935/live/eltv/chunklist_w110684527.m3u8
+#EXTINF:-1,ALVIN TV
+#EXTGRP:🇦🇿 Azərbaycan
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
+
+#EXTINF:-1 ,AZSTAR 
+#EXTGRP:🇦🇿 Azərbaycan
+http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
+
+#EXTINF:-1,НТВ
+#EXTGRP:🇷🇺 Федеральные
+http://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:0,Первый канал HD 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55922&extension=ts&play_token=kOlONOQWX1
+#EXTINF:0,Первый канал 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55762&extension=ts&play_token=6bc3pra6Ad
+#EXTINF:0,Первый канал Рез
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55762&extension=ts&play_token=PrrQYBfmzk
+
+
+#EXTINF:0,Россия 1 FHD 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55815&extension=ts&play_token=lyoP5JnLgO
+#EXTINF:0,Россия 1 HD 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55936&extension=ts&play_token=ra5gyqFGNZ
+#EXTINF:0,НТВ HD
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55915&extension=ts&play_token=zNorT1vDCw
+#EXTINF:0,Рен ТВ FHD
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55926&extension=ts&play_token=N5IJPF2nMN
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55813&extension=ts&play_token=HUk3XzhAjD
+#EXTINF:0,Пятый канал
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55924&extension=ts&play_token=ao2lFzdN0K
+#EXTINF:0, Россия К
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55928&extension=ts&play_token=1S6mjbouI7
+
+
+
+#EXTINF:0, Россия 24
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55937&extension=ts&play_token=uF5BnSub6B
+#EXTINF:0, ТВ Центр HD 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55840&extension=ts&play_token=JQVhR5yNun
+#EXTINF:0, ТВ Центр
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55942&extension=ts&play_token=w0tg0OiRKN
+#EXTINF:0, СТС HD 
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55940&extension=ts&play_token=ECla1LItLg
+#EXTINF:0, СТС
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55940&extension=ts&play_token=MiQrIM6QFV
+
+#EXTINF:0, Домашний
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55861&extension=ts&play_token=Kd240SPJn2
+#EXTINF:0, ТВ3 HD
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55839&extension=ts&play_token=FaJ2FLCcG5
+#EXTINF:0, ТВ3
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55941&extension=ts&play_token=KVTIw9m0a9
+#EXTINF:0, Пятница!
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55923&extension=ts&play_token=q4yE4vvldl
+#EXTINF:0, Мир 
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55907&extension=ts&play_token=yEfG0EzUkT
+#EXTINF:0, Мир 24
+#EXTGRP:🇷🇺 Федеральные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55896&extension=ts&play_token=mHGAyjNXzi
+#EXTINF:0, ТНТ
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55825&extension=ts&play_token=m0powhFf6o
+#EXTINF:0, Че
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55946&extension=ts&play_token=j9cLRagGEV
+#EXTINF:0, ТНТ4 HD
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55944&extension=ts&play_token=au8EvXDrUu
+#EXTINF:0, Пятница HD
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55923&extension=ts&play_token=lJBIhwFUI9
+
+#EXTINF:0,food
+#EXTGRP:⚛️Кулинарные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55864&extension=ts&play_token=ugD9nqQzH3
+
+#EXTINF:0,Кухня ТВ HD
+#EXTGRP:⚛️Кулинарные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55831&extension=ts&play_token=jQdKSJQESD
+#EXTINF:0,Кухня ТВ
+#EXTGRP:⚛️Кулинарные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55882&extension=ts&play_token=pUYgTRl2Mw
+
+#EXTINF:0,Карусель
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55871&extension=ts&play_token=k4KGOR5ekT
+
+
+#EXTINF:0, Viju TV1000 HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55828&extension=ts&play_token=7Y6klPVYQc
+#EXTINF:0, Viju TV1000
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55829&extension=ts&play_token=Xs9pbTx0Ii
+#EXTINF:0, Viju TV1000 Action
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55833&extension=ts&play_token=jR5cwbK9bk
+#EXTINF:0, Viju TV1000 Русское
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55838&extension=ts&play_token=q6Pf0XBnxs
+#EXTINF:0, Viju TV1000 Русское
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55909&extension=ts&play_token=Gg4bm7vyeI
+#EXTINF:0, Viju+ comedy HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55834&extension=ts&play_token=2yrpsjNlHC
+#EXTINF:0,Санкт Петербург
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55938&extension=ts&play_token=3pp28VmFKV
+#EXTINF:0, Наше крутое HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55909&extension=ts&play_token=Gg4bm7vyeI
+#EXTINF:0, AMEDIA 1
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55732&extension=ts&play_token=Bne31CfK22
+#EXTINF:0, AMEDIA 2
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55729&extension=ts&play_token=wIE2Kqz06u
+#EXTINF:0, AMEDIA PREMIUM HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55730&extension=ts&play_token=ZYNI5DXw6E
+#EXTINF:0, AMEDIA PREMIUM
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55749&extension=ts&play_token=IHALvrKn8W
+#EXTINF:0, Комедийное FHD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55779&extension=ts&play_token=sFP6Wf55qy
+#EXTINF:0, Комедийное HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55875&extension=ts&play_token=klEC75e4qd
+
+
+#EXTINF:0,Bollywood 
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55736&extension=ts&play_token=FdeUIoBaXx
+#EXTINF:0,Чё
+#EXTGRP:🎭Развлекательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55946&extension=ts&play_token=EjYafYUVrG
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55860&extension=ts&play_token=YCljlUb2a7
+#EXTINF:0,Еврокино 
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55863&extension=ts&play_token=rIr4tpLpo0
+#EXTINF:0,Кинохит 
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55773&extension=ts&play_token=LKWh1j1AoB
+#EXTINF:0,Киносвидание FHD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55776&extension=ts&play_token=wkLvYkFiNm
+#EXTINF:0,Киносвидание HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55776&extension=ts&play_token=kcZgjybMTG
+
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:🎦Фильмы
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:0,Киносерия HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55781&extension=ts&play_token=dquVXFWVj3
+#EXTINF:0,Киномикс FHD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55778&extension=ts&play_token=YluJrigmxT
+#EXTINF:0,Киномикс HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55874&extension=ts&play_token=hgBOESO92V
+#EXTINF:0,Мужское Кино HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55795&extension=ts&play_token=X9tTBIXByf
+
+
+#EXTINF:0,TV XXI
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55832&extension=ts&play_token=ec6X7kcSdW
+
+#EXTINF:0,РБК
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55925&extension=ts&play_token=K0jFpxbWfF 
+#EXTINF:0,Flixsnip HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55809&extension=ts&play_token=D34sIVj6Cr
+
+
+#EXTINF:-1,BCU Cinema HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55857&extension=ts&play_token=kKeLr7EkKA
+
+#EXTINF:-1,BCU Kinorating HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55849&extension=ts&play_token=VfJbfBDPvQ
+#EXTINF:-1,BCU Comedy HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55758&extension=ts&play_token=lWnaSuhtFy
+
+#EXTINF:-1,Кино UHD 4K
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55912&extension=ts&play_token=Kk1wMPMa8a
+
+#EXTINF:0,Русский Бестселлер
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55931&extension=ts&play_token=Dv8TBJJ0HA
+#EXTINF:0,Русский детектив
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55932&extension=ts&play_token=lDXeFG217T
+#EXTINF:0,Русский роман
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55934&extension=ts&play_token=OMBZLioVTu
+
+#EXTINF:0,Sony Sci-Fi HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55824&extension=ts&play_token=zEZPwT8E0D
+
+
+#EXTINF:0,Индия
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55850&extension=ts&play_token=ViUzk6uARv
+
+
+
+#EXTINF:0,КИНЕКО HD
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55761&extension=ts&play_token=uE0134ucFk
+
+
+#EXTINF:0,ZooПарк
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55867&extension=ts&play_token=0rV7KqLnFC
+#EXTINF:0,Москва 24
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55900&extension=ts&play_token=6CaFgOrSRZ
+#EXTINF:0,RTVI
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55810&extension=ts&play_token=DQpThxujtb
+
+#EXTINF:-1,Моя планета
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55901&extension=ts&play_token=wCFvpfnA5G
+
+
+#EXTINF:0, Nat Geo Wild HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55796&extension=ts&play_token=cPkTYIOv6s
+#EXTINF:0, National Geographic
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55797&extension=ts&play_token=loOPpdjpBY
+
+
+
+
+#EXTINF:0,HDL HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55766&extension=ts&play_token=iQgS3pwmPK
+#EXTINF:0, History
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55767&extension=ts&play_token=Xso0EMXSVP
+#EXTINF:0, ID Investigation Discovery FHD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55768&extension=ts&play_token=6n5psHfb7k
+
+#EXTINF:0, ID Investigation Discovery HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55742&extension=ts&play_token=vDtECb8Cz7
+#EXTINF:0, Discovery channel HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55741&extension=ts&play_token=Hz76AHcicJ
+#EXTINF:0, Travel channel HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55827&extension=ts&play_token=wJjyaTM3Tn
+#EXTINF:0, Viju History HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55845&extension=ts&play_token=Jax1WDtXoZ
+#EXTINF:0, Viju Explore HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55847&extension=ts&play_token=vFK188A0z0
+
+
+#EXTINF:0, Океан
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55805&extension=ts&play_token=GOPsl7IY4M
+
+
+#EXTINF:0, Наука
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55908&extension=ts&play_token=jecwnllxfc
+
+
+
+
+#EXTINF:0,Da Vinci Learning
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55739&extension=ts&play_token=iDQ7PC7zly
+
+#EXTINF:0,История
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55869&extension=ts&play_token=dagT3xL8dR
+#EXTINF:0, Кто есть кто
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55881&extension=ts&play_token=dxA6H7aMoa
+#EXTINF:-1,365 Дней
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55727&extension=ts&play_token=yc4AgZSs5Q
+#EXTINF:-1,Ю
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55949&extension=ts&play_token=WIQTyYuL8T
+#EXTINF:0,домашние животные
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55748&extension=ts&play_token=npYhlq8XOd
+
+#EXTINF:0,TLC HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55826&extension=ts&play_token=1Dhn6JGDFm
+#EXTINF:0,Animal Planet HD
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55735&extension=ts&play_token=UnlAICBFbb
+#EXTINF:0,Техно 24
+#EXTGRP:📹Познавательные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55856&extension=ts&play_token=nxG8pOQtZB
+#EXTINF:-1,Дождь HD
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55858&extension=ts&play_token=8oxb5jtzqP
+#EXTINF:-1, EuroNews HD
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55750&extension=ts&play_token=l5Osc8yrgT
+
+
+#EXTINF:-1,РБК
+#EXTGRP:🌐Новостные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55925&extension=ts&play_token=K0jFpxbWfF
+
+
+
+#EXTINF:0, Матч! HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55789&extension=ts&play_token=PDyO19ox4T
+#EXTINF:0, Матч! Футбол 1 FHD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55893&extension=ts&play_token=wZLxLKXTFx
+#EXTINF:0, Матч! Футбол 1 HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55770&extension=ts&play_token=vTqNpDbI7n
+#EXTINF:0, Матч! Футбол 1
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55933&extension=ts&play_token=CkftPXID01
+#EXTINF:0, Матч! Футбол 2 FHD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55894&extension=ts&play_token=bH1ZYshRhr
+#EXTINF:0, Матч! Футбол 2 HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55800&extension=ts&play_token=5j0zATrcom
+
+#EXTINF:0, Матч! Футбол 3 FHD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55895&extension=ts&play_token=8Ddzr5myfh
+#EXTINF:0, Матч! Футбол 3 HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55801&extension=ts&play_token=lWmjSw1xxX
+#EXTINF:0, Viju Sport HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55756&extension=ts&play_token=kiIkGBKFAu
+#EXTINF:0, Eurosport 1 HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55752&extension=ts&play_token=TK4JBm8hhz
+
+#EXTINF:0, Eurosport 2 HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55753&extension=ts&play_token=uCT6ji6avJ
+
+
+#EXTINF:0,Бокс ТВ
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55855&extension=ts&play_token=TzVNUGhEt0
+#EXTINF:0, Матч! Страна HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55788&extension=ts&play_token=wYhy4ibfOO
+#EXTINF:0, Матч! Боец HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55782&extension=ts&play_token=UE6AyeQbLc
+#EXTINF:0, Матч! Игра HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55787&extension=ts&play_token=zgtveSgE3r
+#EXTINF:0, Матч! Арена HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55786&extension=ts&play_token=eIePmzp2yO
+#EXTINF:0,KHL 
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55883&extension=ts&play_token=0LJuLPLybO
+#EXTINF:0,Сетанта Спорт HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55817&extension=ts&play_token=yhbxCCeVFC
+#EXTINF:0,Сетанта Спорт+ HD
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55822&extension=ts&play_token=zsWf2IGuDa
+
+#EXTINF:0,АВТО плюс
+#EXTGRP:⚽️Спортивные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55853&extension=ts&play_token=13fzmnKWA4
+
+
+#EXTINF:0,Шансон тв
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55947&extension=ts&play_token=PMTCIa9uJD
+#EXTINF:0,Сапфир 
+#EXTGRP:🎦Фильмы
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55751&extension=ts&play_token=JA5hf1wsCs
+#EXTINF:0,Музыка первого
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55904&extension=ts&play_token=CCcqK0JwdY
+#EXTINF:0,Musiс Box Russia
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55785&extension=ts&play_token=0c2CFSWVvJ
+#EXTINF:0,Муз союз
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55903&extension=ts&play_token=mXYJgO0ISN
+
+#EXTINF:0,MTV Live HD
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55783&extension=ts&play_token=h8LaKkN8P4
+#EXTINF:0,Bridge TV hits
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55740&extension=ts&play_token=xt4KGhVRmc
+#EXTINF:0,RU TV
+#EXTGRP:🎧Музыкальные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55811&extension=ts&play_token=Nyg9rRa19b
+#EXTINF:0,Food Network
+#EXTGRP:⚛️Кулинарные
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55759&extension=ts&play_token=ujQbBeM7YK
+
+
+#EXTINF:0,2х2
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55726&extension=ts&play_token=yUqVgKNuNd
+#EXTINF:0,TIJI
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55843&extension=ts&play_token=8GdH0SjU3B
+#EXTINF:0,Nick Jr
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55798&extension=ts&play_token=aWP2gH6Q1v
+#EXTINF:0,Nickelodeon HD 
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55804&extension=ts&play_token=wKp9na9fwN
+#EXTINF:0,МУЛЬТ
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55905&extension=ts&play_token=LLJzPNPjm8
+#EXTINF:0,Gulli Girl
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55765&extension=ts&play_token=fyclrAzZUt
+#EXTINF:0,Солнце
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55744&extension=ts&play_token=iy95RqTN2X
+#EXTINF:0,ani
+#EXTGRP:🎠Детские
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55731&extension=ts&play_token=VI0J2GAVEF
+
+#EXTINF:0,Fashion TV HD
+#EXTGRP:🔅Мода
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=55757&extension=ts&play_token=EEQoqj1QOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TRT 1 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2838&extension=ts&play_token=EDsC3a1PYd
+#EXTINF:-1,TRT 1 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2837&extension=ts&play_token=teSVdf9KZc
+
+#EXTINF:-1,TRT 2 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=29026&extension=ts&play_token=Uap82FHo9h
+
+#EXTINF:-1,ATV FHD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3054&extension=ts&play_token=jUmKrKhFNT
+#EXTINF:-1,ATV 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3052&extension=ts&play_token=hj1KD76mXW
+#EXTINF:-1,ATV Avrupa (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:-1,ATV AVRUPA
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3053&extension=ts&play_token=lKZBePpsHu
+
+
+
+
+
+#EXTINF:-1,Star TV (720p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,Star TV HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2855&extension=ts&play_token=SOCuw7t8yE
+#EXTINF:-1,Star TV
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2854&extension=ts&play_token=kD29qLU5gJ
+#EXTINF:-1,EURO Star  
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2987&extension=ts&play_token=DT70EKoudX
+#EXTINF:-1,Show TV HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2874&extension=ts&play_token=wM72TrxVEb
+#EXTINF:-1,Show TV 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2873&extension=ts&play_token=xHd05qKrUa
+#EXTINF:-1,Show TURK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2876&extension=ts&play_token=c8tMI1ucgl
+
+
+#EXTINF:-1,Show MAX HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=48899&extension=ts&play_token=4oO1hfKL7h
+
+
+
+#EXTINF:31,Kanal D HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2945&extension=ts&play_token=xVhFVtihue
+#EXTINF:31,Kanal D 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2944&extension=ts&play_token=Eu6dDrNclX
+#EXTINF:31,EURO D 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2991&extension=ts&play_token=iur6uwhprY
+#EXTINF:-1,Euro D (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+
+
+
+#EXTINF:-1,FOX HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2977&extension=ts&play_token=lADAHPYQa6
+#EXTINF:-1,FOX TV 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2976&extension=ts&play_token=F3FGlK8Uno
+
+
+
+#EXTINF:-1,A2 TV HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3067&extension=ts&play_token=C50F4lQD0e
+#EXTINF:-1,A2 TV 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3066&extension=ts&play_token=w4wsT96ElL
+
+
+#EXTINF:-1,TV 8 (1080p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1,TV 8 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2815&extension=ts&play_token=ZbOqZBN1lO
+#EXTINF:-1,TV 8
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2814&extension=ts&play_token=dkumfuYfFT
+
+#EXTINF:-1,TV 8 INT
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2813&extension=ts&play_token=sr3FQZw2tJ
+
+#EXTINF:-1,TV 8,5 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2810&extension=ts&play_token=13dvyLpssg
+#EXTINF:-1,TV 8,5
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2809&extension=ts&play_token=PET1F1gVvv
+
+#EXTINF:-1,KANAL 7 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2951&extension=ts&play_token=dZFrp9Qn83
+#EXTINF:-1,KANAL 7
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2949&extension=ts&play_token=iqUauQAKUM
+#EXTINF:-1,Kanal 7 (1080p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,KANAL 7 AVRUPA
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2950&extension=ts&play_token=pDhPJsrCfv
+
+#EXTINF:-1,BEYAZ TV HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3017&extension=ts&play_token=i3oTpeHL8a
+
+#EXTINF:-1,BEYAZ 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3016&extension=ts&play_token=SUVDWz7s1O
+
+#EXTINF:-1,Tele1 (1080p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+
+#EXTINF:-1,TEVE 2 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2850&extension=ts&play_token=oabrB6AwQ2
+#EXTINF:-1,TEVE 2 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2849&extension=ts&play_token=UYTZEYiccn
+#EXTINF:-1,Teve2 (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1,360 TV
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=7537&extension=ts&play_token=4pClJ1BJHF
+#EXTINF:-1,360 TV (720p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1, TRT Haber HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2830&extension=ts&play_token=vmqGqaCqAd
+#EXTINF:-1, TRT Haber 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2829&extension=ts&play_token=MgdzmqOmYC
+
+
+#EXTINF:-1,A Haber FHD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3072&extension=ts&play_token=Cd4lWleUxz
+#EXTINF:-1,A Haber HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3071&extension=ts&play_token=EcCwjniMl5
+#EXTINF:-1,A Haber
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+
+#EXTINF:-1,TRT Müzik (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT Avaz (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Belgesel (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Power Türk Slow (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1,Power Türk Taptaze (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1,Power TV (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1,Power Dance (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1,Power Love (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,Power Türk Akustik (1080p)
+#EXTGRP:🇹🇷 Türkiyə
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1,Number 1 Damar (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1,Number 1 Dance (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1,KRAL Pop TV (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1,Dream Türk (720p)
+#EXTGRP:🇹🇷 Türkiyə
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,A Haber
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:-1,A Para (1080p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
+#EXTINF:-1,A Spor (1080p) 
+#EXTGRP:🇹🇷 Türkiyə
+http://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+
+
+#EXTINF:-1,HABERTURK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2970&extension=ts&play_token=WyaMHQcRFc
+#EXTINF:-1,HABERTURK
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2969&extension=ts&play_token=ceGkVVwl2D
+
+
+#EXTINF:-1,HABER GLOBAL HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=48946&extension=ts&play_token=M0i8exhunl
+
+
+
+
+#EXTINF:-1,TRTBELGESEL HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2835&extension=ts&play_token=4IOt9cdCoX
+
+
+#EXTINF:-1,TRTBELGESEL FHD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2835&extension=ts&play_token=ijicH10DNH
+
+
+
+#EXTINF:-1,YABAN TV HD
+#EXTGRP:🇹🇷 Türkiyə 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=139079&extension=ts&play_token=AW6wHpggBD
+
+
+#EXTINF:-1,Discovery ID HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3003&extension=ts&play_token=tKpeuZaWyQ
+
+
+#EXTINF:-1,Nat Geo Wild HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2903&extension=ts&play_token=qCEKQ5TrHr
+
+
+#EXTINF:-1,HISTORY
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2964&extension=ts&play_token=TwidVU1iOr
+
+#EXTINF:-1,VIASAT HISTORY HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=147434&extension=ts&play_token=lkIY1Orb9y
+
+#EXTINF:-1,Love Nature
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2904&extension=ts&play_token=Q8aMy8P9Um
+
+#EXTINF:-1,DMAX HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=31320&extension=ts&play_token=RKFwWwY732
+
+
+
+
+
+#EXTINF:-1,National Geographic FHD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2902&extension=ts&play_token=40okpavk4e
+
+
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3004&extension=ts&play_token=413DFvqkcC
+
+#EXTINF:-1,TGRT BELGESEL 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2848&extension=ts&play_token=BxCLRQD06d
+
+
+
+
+
+
+#EXTINF:-1,TRT MUZIK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2828&extension=ts&play_token=FuLaa8eJSM
+
+#EXTINF:-1, NR1 HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2899&extension=ts&play_token=2JU46h7nBW
+#EXTINF:-1, NR1 TURK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2897&extension=ts&play_token=pWDBYxOu9i
+
+#EXTINF:-1, DREAM TURK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2996&extension=ts&play_token=uJEzMStRFJ
+#EXTINF:-1, DREAM TURK 
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2995&extension=ts&play_token=KBkg0BlRdb
+
+#EXTINF:-1, POWER TURK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2887&extension=ts&play_token=j1zRdOE3uM
+#EXTINF:-1, KRAL POP HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2935&extension=ts&play_token=0DCnHtKibn
+#EXTINF:-1, KRAL TV HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2934&extension=ts&play_token=1tLCVL7J03
+#EXTINF:-1, TRT COCUK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2833&extension=ts&play_token=0FFrf8F67K
+
+
+#EXTINF:-1,Nickelodeon
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2900&extension=ts&play_token=kTOssNf2Sv
+
+
+#EXTINF:-1,NICK JR
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=9303&extension=ts&play_token=jzWIR0uwfQ
+#EXTINF:-1,DISNEY JR
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=9304&extension=ts&play_token=eOFOkI44nJ
+
+#EXTINF:-1,Cartoon Network
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=3011&extension=ts&play_token=KX6J7NvRtQ
+
+#EXTINF:-1,MINICA GO HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2922&extension=ts&play_token=jpPVJEJbjj
+#EXTINF:-1,MINIKA COCUK HD
+#EXTGRP:🇹🇷 Türkiyə
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:11:0F:D4&stream=2923&extension=ts&play_token=BugkuyF1it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
